@@ -1,0 +1,34 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rainbow Arc -->
+  <circle cx="180" cy="280" r="120" fill="none" stroke="#0066CC" stroke-width="20"/>
+  <circle cx="180" cy="280" r="95" fill="none" stroke="#00AA00" stroke-width="20"/>
+  <circle cx="180" cy="280" r="70" fill="none" stroke="#FFDD00" stroke-width="20"/>
+  <circle cx="180" cy="280" r="45" fill="none" stroke="#FF8800" stroke-width="20"/>
+  <circle cx="180" cy="280" r="20" fill="none" stroke="#CC0000" stroke-width="20"/>
+  
+  <!-- Sun -->
+  <circle cx="290" cy="120" r="60" fill="#FFDD00"/>
+  <line x1="290" y1="40" x2="290" y2="10" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="350" y1="60" x2="370" y2="40" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="370" y1="120" x2="400" y2="120" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="350" y1="180" x2="370" y2="200" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="290" y1="240" x2="290" y2="270" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="230" y1="180" x2="210" y2="200" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="210" y1="120" x2="180" y2="120" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  <line x1="230" y1="60" x2="210" y2="40" stroke="#FFDD00" stroke-width="15" stroke-linecap="round"/>
+  
+  <!-- Sun Face -->
+  <circle cx="275" cy="105" r="4" fill="#6B4C9A"/>
+  <circle cx="305" cy="105" r="4" fill="#6B4C9A"/>
+  <path d="M 280 130 Q 290 140 300 130" stroke="#6B4C9A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Text: Littles -->
+  <text x="450" y="180" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#6B4C9A" letter-spacing="8">
+    Littles
+  </text>
+  
+  <!-- Text: Preschool LLC -->
+  <text x="450" y="260" font-family="Arial, sans-serif" font-size="50" fill="#9090C0" letter-spacing="3">
+    Preschool LLC
+  </text>
+</svg>
